@@ -1,0 +1,13 @@
+Why does Insomnia give me this response...
+{
+  "text": "89 is the atomic number of actinium.",
+  "number": 89,
+  "found": true,
+  "type": "trivia"
+}
+
+But resquests.get() gives me a response object that is totally different?
+    I can't use resp.json()
+
+Is there a way to refactor def make_error_dict(request): ?
+
